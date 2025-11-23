@@ -1,11 +1,11 @@
 # Personalized-Meal-Planner
-##Project Title
-##Personal Indian Meal Planner
+## Project Title
+## Personal Indian Meal Planner
 
-##Overview
+## Overview
 The Personal Indian Meal Planner is a Python-based application that helps users discover delicious Indian and international meals tailored to their specific dietary goals, allergies, and food preferences. The program filters through a curated collection of meals to provide personalized meal suggestions that align with weight loss, muscle gain, or maintenance objectives while considering allergens and dietary restrictions.
 
-##Features
+## Features
 Personalized Meal Recommendations: Get meal suggestions based on your fitness goals (weight loss, muscle gain, or maintenance)
 
 Allergy Awareness: Automatically filters out meals containing common allergens like nuts, gluten, dairy, eggs, and fish
@@ -18,7 +18,7 @@ Indian Cuisine Focus: Features authentic Indian dishes alongside healthy interna
 
 User-Friendly Interface: Simple command-line interface that guides users through the selection process
 
-##Technologies/Tools Used
+## Technologies/Tools Used
 Programming Language: Python 3
 
 Data Structures: Lists and Dictionaries for meal storage and filtering
@@ -27,13 +27,13 @@ Core Python Features: Functions, conditional statements, loops, string manipulat
 
 Development Environment: Any Python-compatible IDE or text editor
 
-##Steps to Install & Run the Project
+## Steps to Install & Run the Project
 Prerequisites
 Python 3.6 or higher installed on your system
 
 Basic command-line/terminal knowledge
 
-##Installation Steps
+## Installation Steps
 Download the Code
 
 Save the provided Python code as meal_planner.py
@@ -97,7 +97,7 @@ Enter any preference
 
 Verify the "Sorry no thing is matching" message appears
 
-##Screenshots (Example Output)
+## Screenshots (Example Output)
 text
 Welcome to Indian/international meal planner!
 We've got classic Indian meals and healthy picks for every taste.
